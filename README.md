@@ -13,7 +13,7 @@ Best of luck on your journey!
 
 ___
 
-## Instructions
+## Requirements
 
 You must have Python installed in your computer in order to play the game.
 Copy the file .py (KB) in your computer, go to the folder where you copied the file and open a terminal window. Type:
