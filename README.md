@@ -16,6 +16,7 @@ ___
 ## Requirements
 
 You must have Python installed in your computer in order to play the game.
+
 Download the jupyter notebook file .py (KB) to your computer. Run your terminal window to access jupyter notebook and go to the folder where you save the file and play.
 ___
 
