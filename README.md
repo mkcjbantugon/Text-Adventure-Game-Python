@@ -17,7 +17,7 @@ ___
 
 You must have Python installed in your computer in order to play the game.
 
-Download the jupyter notebook file .py (KB) to your computer. Run your terminal window to access jupyter notebook and go to the folder where you save the file and play.
+Download the jupyter notebook file "Text Adventure Game Development_03DEC2023.ipynb" (39 KB) to your computer. Run your terminal window to access jupyter notebook and go to the folder where you save the file and play.
 ___
 
 
